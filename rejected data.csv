@@ -1,0 +1,4 @@
+customer_id,customer_name,age,registration_date,email
+C019,Sara Mohamed,150,01/04/2026,customer19@example.com
+C028,Khaled Mostafa,70,,customer28@example.com
+C036,Ahmed Ali,,22/04/2026,customer36@example.com
